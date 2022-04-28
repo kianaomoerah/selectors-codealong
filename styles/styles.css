@@ -111,7 +111,7 @@ Orange - #ED6B55
 
  input[type="checkbox"] {
      position: abolsute;
-     opacity: 0;
+     opacity: 1;
  }
 
  input[type="checkbox"]:checked + .toggleLabel::after {
